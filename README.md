@@ -1,5 +1,11 @@
 ### Hi there 👋
+- 👋 Hi, I’m @sheensay
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning world
+- 💞️ I’m looking to collaborate on www
 
+- 📫 How to reach me: github@sheensay.ru
+- 
 <!--
 **Sheensay/Sheensay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
